@@ -35,6 +35,22 @@ Project Structure ![image](https://github.com/user-attachments/assets/f5608a21-8
 ![image](https://github.com/user-attachments/assets/8cb17bfa-6d66-492e-881c-ff5eacdab73c)
 
 
+# Urls binding:
+account/
+![image](https://github.com/user-attachments/assets/33b0b4c4-8d1c-4871-83b5-a669183eb9d1)
+
+internship-project/
+![image](https://github.com/user-attachments/assets/92f2e730-897e-442c-a572-457a6f01b6e8)
+
+# To run the project :
+1) python manage.py migrate
+2) python manage.py createsuperuser ( for the admin dashboard )
+3) python manage.py runserver
+
+
+
+
+
 
 
 
